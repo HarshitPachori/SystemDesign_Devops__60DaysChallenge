@@ -1,0 +1,1 @@
+ Day 1 of my **`#SystemDesign`** & **`#DevOps`** journey! Kicked off with horizontal vs. vertical scaling concepts & Basic of AWS with setting up my AWS Free Tier account. The cloud journey begins! **`#BuildInPublic`**
