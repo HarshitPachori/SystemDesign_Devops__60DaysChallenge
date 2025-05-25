@@ -1,0 +1,1 @@
+ Day 2 of my **`#SystemDesign`** & **`#DevOps`** journey! Kicked off with SOLID principles, SPOF, Http, Tcp/Ip, capacity estimation, RDBMS, NOSQL, etc concepts & Basic of AWS with creating EC2 instance. The cloud journey begins! **`#BuildInPublic`**
