@@ -1,0 +1,1 @@
+ Day 3 of my **`#SystemDesign`** & **`#DevOps`** journey! Kicked off with Load Balancing concepts and Algorithm & Basics of AWS with creating EC2 instance and deploy a hello world application. The cloud journey begins! **`#BuildInPublic`**
