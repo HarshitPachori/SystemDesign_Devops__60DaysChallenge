@@ -1,0 +1,1 @@
+ Day 5 of my **`#SystemDesign`** & **`#DevOps`** journey! Kicked off with Caching concepts and Algorithm & Basics of AWS with creating EC2 instance and managing security groups, etc. The cloud journey begins! **`#BuildInPublic`**
