@@ -18,9 +18,9 @@ keywords:
 - [How are NoSQL Databases Optimized ?](#how-are-nosql-databases-optimized-)
 - [How are SQL Databases Optimized ?](#how-are-sql-databases-optimized-)
 - [What are Location-Based Databases ?](#what-are-location-based-databases-)
-- [What is Database Migration ?](#what-is-lfu-)
-- [What are Bloom Filters ?](#what-is-lfu-)
-- [System Design Case Study 1 : Design a simple Key - Value Store like Redis](#what-is-lfu-)
+- [What is Database Migration ?](#what-is-database-migration-)
+- [What are Bloom Filters ?](#what-are-bloom-filters-)
+- [System Design Case Study 1 : Design a simple Key - Value Store like Redis](#system-design-case-study-1--design-a-simple-key---value-store-like-redis)
  
 
 ### What is Database Scaling ?
