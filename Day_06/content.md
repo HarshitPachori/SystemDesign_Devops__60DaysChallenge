@@ -1,0 +1,1 @@
+ Day 6 of my **`#SystemDesign`** & **`#DevOps`** journey! Kicked off with Caching concepts and Algorithm & Basics of AWS with creating EC2 instance and creating a Key - Value Storage like Redis, etc. The cloud journey begins! **`#BuildInPublic`**
