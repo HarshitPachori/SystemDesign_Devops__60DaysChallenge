@@ -1,0 +1,1 @@
+ Day 7 of my **`#SystemDesign`** & **`#DevOps`** journey! Kicked off with Caching concepts and Algorithm & Basics of AWS with creating EC2 instance and creating new EBS Storage and learned about CAP Theorem and types of databases. The cloud journey begins! **`#BuildInPublic`**
