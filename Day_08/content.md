@@ -1,0 +1,1 @@
+ Day 8 of my **`#SystemDesign`** & **`#DevOps`** journey! Kicked off with Caching concepts and Algorithm & Basics of AWS with creating EC2 instance and Types of  EBS Storage and learned about Message Queues. The cloud journey begins! **`#BuildInPublic`**
