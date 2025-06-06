@@ -1,0 +1,1 @@
+ Day 12 of my **`#SystemDesign`** & **`#DevOps`** journey! Kicked off with AWS S3 and Database Aharding / Partitioning Techniques. The cloud journey begins! **`#BuildInPublic`**
