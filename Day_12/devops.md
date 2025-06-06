@@ -1,6 +1,6 @@
 ---
 title: "Day 12: AWS S3 "
-description: "A summary of my 11th day's learning in the 60-day challenge, covering basic concepts of S3."
+description: "A summary of my 12th day's learning in the 60-day challenge, covering basic concepts of S3."
 keywords:
   - AWS
   - Day 12

@@ -1,6 +1,6 @@
 ---
 title: "Day 12: Intro to API Gateway"
-description: "A summary of my 11th day's learning in the 60-day challenge, covering fundamentals of Database Sharding and techniques."
+description: "A summary of my 12th day's learning in the 60-day challenge, covering fundamentals of Database Sharding and techniques."
 keywords:
   - Database Sharding / Partition
   - Day 12
