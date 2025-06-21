@@ -1,0 +1,1 @@
+ Day 22 of my **`#SystemDesign`** & **`#DevOps`** journey! Kicked off with AWS S3 and E-commerce Product Catalog. The cloud journey begins! **`#BuildInPublic`**
