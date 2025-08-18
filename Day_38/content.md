@@ -1,0 +1,1 @@
+ Day 38 of my **`#SystemDesign`** & **`#DevOps`** journey! Kicked off with Subnet in Bastion Host and Security **`#BuildInPublic`**
